@@ -3,6 +3,7 @@ The Goal of this repo is to provide the solutions of Zindi Hackathons
 
 
 ## Spot the Mask Challenge
+- 1st Place by Crew_Esi [code](https://github.com/Bouguedra-Adem/Spot-the-Mask-Challenge-by_ZindiWeekendz)
 - 4th Place by TheCIA [code](https://github.com/NazarioR9/Spot-the-Mask-challenge-4th-Place)
 - 10th Place by Nauyan [code](https://github.com/nauyan/ZindiWeekends_SpotTheMaskChallenge)
 
