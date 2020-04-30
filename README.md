@@ -2,6 +2,11 @@
 The Goal of this repo is to provide the solutions of Zindi Hackathons
 
 
+## To Vaccinate or Not to Vaccinate: It’s not a Question by ZindiWeekendz
+- 1st Place by devnikhilmishra [code](https://github.com/nikhilmishradevelop/zindi-winning-solutions/blob/master/To%20Vaccinate%20or%20Not%20to%20Vaccinate%20It’s%20not%20a%20Question%20by%20%23ZindiWeekendz/zindi_weekendz_nlp_final_solution.ipynb)
+- 2nd Place by Muhamed_Tuo [code](https://github.com/NazarioR9/ToVaccineOrNotToVaccine)
+
+
 ## Spot the Mask Challenge
 - 1st Place by Crew_Esi [code](https://github.com/Bouguedra-Adem/Spot-the-Mask-Challenge-by_ZindiWeekendz)
 - 4th Place by TheCIA [code](https://github.com/NazarioR9/Spot-the-Mask-challenge-4th-Place)
