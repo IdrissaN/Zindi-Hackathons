@@ -2,6 +2,10 @@
 The Goal of this repo is to provide the solutions of Zindi Hackathons
 
 
+## COVID-19 Tweet Classification Challenge 
+- 1st Place by Krishna_Priya [code](https://github.com/KrishnaPriyaIITR/COVID-19-Tweet-Classification-using-Roberta-and-Bert-Simple-Transformers)
+
+
 ## To Vaccinate or Not to Vaccinate: It’s not a Question by ZindiWeekendz
 - 1st Place by devnikhilmishra [code](https://github.com/nikhilmishradevelop/zindi-winning-solutions/blob/master/To%20Vaccinate%20or%20Not%20to%20Vaccinate%20It’s%20not%20a%20Question%20by%20%23ZindiWeekendz/zindi_weekendz_nlp_final_solution.ipynb)
 - 2nd Place by Muhamed_Tuo [code](https://github.com/NazarioR9/ToVaccineOrNotToVaccine)
