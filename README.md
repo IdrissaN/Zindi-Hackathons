@@ -1,5 +1,11 @@
 # Zindi-Hackathons
-The Goal of this repo is to provide the solutions of Zindi Hackathons
+The Goal of this repo is to provide the solutions of [Zindi](https://zindi.africa) Hackathons.
+You can find the list of hackathons [here](https://zindi.africa/hackathons)
+
+## The Zimnat Insurance Assurance Challenge
+- 1st Place by Holar [code](https://github.com/horlar1/Zimnat-Insurance-Challenge)
+- 3rd Place by Farzi Data Scientists [code](https://github.com/nikhilmishradevelop/zindi-winning-solutions/tree/master/The%20Zimnat%20Insurance%20Assurance%20Challenge%20by%20%23ZindiWeekendz)
+- 6th Place by DJANGO_UNCHAINED [code](https://github.com/bouzayeniiheb/Zimnat_Challenge)
 
 
 ## COVID-19 Tweet Classification Challenge 
