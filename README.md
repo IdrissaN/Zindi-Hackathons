@@ -35,3 +35,19 @@ You can find the list of hackathons [here](https://zindi.africa/hackathons)
 - 3rd Place by CalebEmelike [code](https://github.com/CalebEmelike/3rd-Position-solution_for_the__African-COVID-19__zindi_hackathon)
 - 6th Place by Holar [code](https://github.com/horlar1/Zindi-SA-Hack)
 
+
+##  Coral Classification Challenge
+- 1st Place by ASSAZZIN [approach](https://zindi.africa/competitions/coral-classification-challenge/discussions/9020)
+
+##  Road Segment Identification Hackathon by #ZindiWeekendz
+- 4th Place by Neo [code](https://github.com/revanthchandu/Road-Segment-Identification-Hackathon)
+- 7th Place by pyflow [code](https://github.com/adeshkin/road_segment)
+- 11th Place by sweetlhare [code](https://github.com/sweetlhare/Road-Segment-Identification-Hackathon)
+
+##  Gender-Based Violence Tweet Classification Challenge
+- 4th Place by Professor [code](https://github.com/osinkolu/GBV-Hackathon)
+- 6th Place by Abdouaziz [code](https://github.com/abdouaziz/gbv)
+
+##  SANSA AWS Informal Settlements in South Africa by #ZindiWeekendz
+- 1st Place by kiminya [code](https://github.com/kiminya-raphael/zindi-sansa-informal-settlements-in-south-africa)
+- 2nd Place by devnikhilmishra [code](https://github.com/nikhilmishradevelop/zindi-aws-sansa-hack/)
